@@ -1,0 +1,5 @@
+edge, 40
+l_margin, 30
+r_margin, 30
+t_margin, 20
+b_margin, 20
